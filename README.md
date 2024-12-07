@@ -41,12 +41,11 @@ L'auteur ne sera pas responsable de l'utilisation malveillante de ce code. Utili
 
 1. Clonez ce dépôt sur votre machine :
    ```bash
-   git clone https://github.com/votre-utilisateur/payload-generator-encoder.git
-   ```
+[  https://github.com/HackfutSec/RshellCoders.git   ```
 
 2. Accédez au répertoire du projet :
    ```bash
-   cd payload-generator-encoder
+   cd RshellCoders
    ```
 
 ---
@@ -55,10 +54,10 @@ L'auteur ne sera pas responsable de l'utilisation malveillante de ce code. Utili
 
 ### 1. Lancer le script
 
-Exécutez le script `payload_generator.py` :
+Exécutez le script `BlitzCoders.py` :
 
 ```bash
-python payload_generator.py
+python BlitzCoders.py
 ```
 
 ### 2. Entrée des paramètres
