@@ -76,7 +76,7 @@ python BlitzCoders.py
 ### 3. Exemple d'exécution
 
 ```
-$ python payload_generator.py
+$ python BlitzCoders.py
 
 [CDX] Enter your IP: 192.168.1.10
 [CDX] Enter your port: 4444
